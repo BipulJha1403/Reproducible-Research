@@ -34,10 +34,11 @@ dir()
 ```
 
 ```
-## [1] "activity.csv"                       "repdata_data_activity.zip"         
-## [3] "RepData_PeerAssessment1-master.zip" "reproducible_research.docx"        
-## [5] "reproducible_research.html"         "reproducible_research.Rmd"         
-## [7] "reproducible_research.tex"
+## [1] "activity.csv"                       "figure"                            
+## [3] "repdata_data_activity.zip"          "RepData_PeerAssessment1-master.zip"
+## [5] "reproducible_research.docx"         "reproducible_research.html"        
+## [7] "reproducible_research.md"           "reproducible_research.Rmd"         
+## [9] "reproducible_research.tex"
 ```
 
 We see that there is a file names "**activity.csv**" in the working directory that we will now load in a new variable named **activity**.
